@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animation Toggle</string>
+    <string name="tile_name">Animation Toggle</string>
+    <string name="switch_title">Animation Switch</string>
+    <string name="status_title">Current Animation Status</string>
+    <string name="status_value">On</string>
+</resources>
